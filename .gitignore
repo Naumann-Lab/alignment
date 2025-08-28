@@ -4,3 +4,4 @@ __pycache__/alignment.cpython-311.pyc
 notebooks/.gitattributes
 notebooks/reference_images/hindbrain/.DS_Store
 notebooks/reference_images/.DS_Store
+registration/__pycache__/sitkalignment.cpython-311.pyc
